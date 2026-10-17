@@ -1,3 +1,12 @@
+> **About this repository.** This is my copy of the lab *Contributing to an Open Source
+> Project on GitHub* from [Digital Innovation One (DIO)](https://www.dio.me/). The lab
+> material and the git history come from the original repository,
+> [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source),
+> and the files in `community/` were contributed by the other participants of the course.
+> **My contribution** is [`community/devbelloni.md`](community/devbelloni.md), added through the
+> fork, branch and pull-request workflow the lab teaches.
+> The original has no license file, so all rights to the lab material remain with its authors.
+
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
